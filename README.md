@@ -14,11 +14,11 @@ The application provides destination discovery, search and filtering, favorites,
 
 ### Destination Discovery
 
-![Wanderly Destination Discovery](destinations.png)
+![Wanderly Destination Discovery](destination.png)
 
 ### Trip Planner
 
-![Wanderly Trip Planner](trip-planner.png)
+![Wanderly Trip Planner](tripplanner.png)
 
 ## Features
 
